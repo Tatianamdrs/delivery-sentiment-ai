@@ -7,7 +7,7 @@ Em operações de delivery em larga escala, ler e classificar feedbacks manualme
 
 ## Tecnologias Utilizadas
 * **Python 3.12**
-* **OpenAI API (GPT-3.5 Turbo)**git push
+* **OpenAI API (GPT-3.5 Turbo)**
 * **Prompt Engineering** (Role-playing & JSON Formatting)
 * **Git/GitHub** para versionamento
 
